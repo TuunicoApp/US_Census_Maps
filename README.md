@@ -7,7 +7,7 @@ Leverage Geopandas and Contextily to create shape maps or a combination of shape
 ## Map Plots
 
 #### US Continental Map (shape file)
-![png](output_36_0.png)
+![png](output_31_0.png)
 
 #### US Continental Map shape and rater tiles downloaded from the internet
 ![png](output_52_0.png)
@@ -17,7 +17,7 @@ Leverage Geopandas and Contextily to create shape maps or a combination of shape
 
 ## Jupyter Notebook and Mark Down File
 
-Refer to **USCensusMaps.ipynb** or **USCensusMaps.md**.
+Refer to **USCensusMaps.ipynb** or **USCensusMaps.md** for python code and instructions to download maps from the US Census website.
 
 ## Dependencies
 
@@ -56,4 +56,4 @@ conda install -c conda-forge geopandas
 
 **I strongly suggest that you create a new environment**
 
-Refer to **cartoenv.yml** file for specific libraries versions used.
+Refer to **cartoenv.yml** file for specific libraries and versions.
