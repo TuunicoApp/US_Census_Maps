@@ -19,6 +19,10 @@ Leverage Geopandas and Contextily to create shape maps or a combination of shape
 
 Refer to **USCensusMaps.ipynb** or **USCensusMaps.md** for python code and instructions to download maps from the US Census website.
 
+If you have some issues opening the jupyter notebook file, copy and paste the link to this website:
+
+https://nbviewer.jupyter.org/
+
 ## Dependencies
 
 * `numpy`
