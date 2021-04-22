@@ -6,16 +6,16 @@
 ### Follow these steps.
 
 #### 1) Go to https://www.census.gov/cgi-bin/geo/shapefiles/index.php
-![png](Tiger_1.png)
+![png](png/Tiger_1.png)
 
 #### 2) Under **"Select a layer type"** choose  **'States and Equivalent'**. Press `Submit`
-![png](Tiger_2.png)
+![png](png/Tiger_2.png)
 
 #### 3) Press `Download national file`
-![png](Tiger_3.png)
+![png](png/Tiger_3.png)
 
 #### 4) After downloading and unzipping the file your will see the following files under the **tl_2020_us_state** folder:
-![png](Tiger_4.png)
+![png](png/Tiger_4.png)
 
 #### 5) Copy the path for the file with `shp` extension, **tl_2020_us_state.shp**. We will read this file using GeoPandas.
 
@@ -224,7 +224,7 @@ df.plot()
 
 
     
-![png](output_15_1.png)
+![png](png/output_15_1.png)
     
 
 
@@ -320,7 +320,7 @@ plt.show()
 
 
     
-![png](output_29_0.png)
+![png](png/output_29_0.png)
     
 
 
@@ -339,7 +339,7 @@ plt.show()
 
 
     
-![png](output_31_0.png)
+![png](png/output_31_0.png)
     
 
 
@@ -386,25 +386,25 @@ for n in regions:
 
 
     
-![png](output_36_0.png)
+![png](png/output_36_0.png)
     
 
 
 
     
-![png](output_36_1.png)
+![png](png/output_36_1.png)
     
 
 
 
     
-![png](output_36_2.png)
+![png](png/output_36_2.png)
     
 
 
 
     
-![png](output_36_3.png)
+![png](png/output_36_3.png)
     
 
 
@@ -475,7 +475,7 @@ plt.show()
 
 
     
-![png](output_44_0.png)
+![png](png/output_44_0.png)
     
 
 
@@ -507,7 +507,7 @@ StatesPlot(us49,'ALAND_miles', 'summer')
 
 
     
-![png](output_48_0.png)
+![png](png/output_48_0.png)
     
 
 
@@ -518,7 +518,7 @@ StatesPlot(us49,'AWATER_miles','viridis')
 
 
     
-![png](output_49_0.png)
+![png](png/output_49_0.png)
     
 
 
@@ -557,7 +557,7 @@ plt.show()
 
 
     
-![png](output_52_0.png)
+![png](png/output_52_0.png)
     
 
 
@@ -624,7 +624,7 @@ statePlot('CA','ALAND_miles','summer',5,200)
 
 
     
-![png](output_58_0.png)
+![png](png/output_58_0.png)
     
 
 
@@ -636,7 +636,7 @@ statePlot('CA','ALAND_miles','summer',7,200)
 
 
     
-![png](output_59_0.png)
+![png](png/output_59_0.png)
     
 
 
@@ -652,6 +652,6 @@ statePlot('CA','ALAND_miles','summer',9,300)
 
 
     
-![png](output_61_0.png)
+![png](png/output_61_0.png)
     
 

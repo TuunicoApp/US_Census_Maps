@@ -7,13 +7,13 @@ Leverage Geopandas and Contextily to create shape maps or a combination of shape
 ## Map Plots
 
 #### US Continental Map (shape file)
-![png](output_31_0.png)
+![png](png/output_31_0.png)
 
 #### US Continental Map shape and rater tiles downloaded from the internet
-![png](output_52_0.png)
+![png](png/output_52_0.png)
 
 #### Create Maps for specific states with different resolutions
-![png](output_59_0.png)
+![png](png/output_59_0.png)
 
 ## Jupyter Notebook and Mark Down File
 
